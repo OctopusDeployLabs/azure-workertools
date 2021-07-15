@@ -17,4 +17,4 @@ RUN wget --quiet -O - https://packages.microsoft.com/keys/microsoft.asc | gpg --
 
 # Get AZ Powershell core modules
 # https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-3.6.1
-RUN pwsh -c 'Install-Module -Force -Name Az -AllowClobber -Scope AllUsers"'
+RUN pwsh -c 'Install-Module -Force -Name Az -AllowClobber -Scope AllUsers'
