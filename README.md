@@ -12,6 +12,6 @@ The following images are built in this repo:
 - Ubuntu 20.04 (tagged `latest` in [DockerHub](https://hub.docker.com/r/octopuslabs/azure-workertools/tags?page=1&name=latest))
 - Windows 2019 (tagged `latest` in [DockerHub](https://hub.docker.com/r/octopuslabs/azure-workertools/tags?page=1&name=latest))
 
-A new image will be built each time a new version of Azure CLI is created.  The version numbers will be based on the version of AWS CLI.
+A new image will be built each time a new version of Azure CLI is created.  The version numbers will be based on the version of the Azure CLI.
 
 **Please consider this repository provided as is.  If there are any issues please do not contact support.**
