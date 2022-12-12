@@ -1,4 +1,4 @@
-FROM octopuslabs/workertools:latest-ubuntu.2004
+FROM octopuslabs/workertools:latest-ubuntu.2204
 
 ARG DEBIAN_FRONTEND noninteractive
 
